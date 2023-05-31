@@ -1,0 +1,9 @@
+:root{
+    --cor-de-fundo:#03153a;
+    --branco:#ffffff;
+    --degrade:linear-gradient(#05276e , #08142b);
+    --azul-degrade:linear-gradient(97.54deg , #002f52 35.49% #326589 165.);
+}
+body{
+    background-color: aqua;
+}
